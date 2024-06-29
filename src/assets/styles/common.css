@@ -1,0 +1,116 @@
+.main-page {
+    width: 100%;
+    height: 100%;
+    padding-top: 50px;
+    background-color: rgb(237, 239, 243);
+    /* overflow-y: scroll; */
+}
+
+
+.login-buton {
+    height: 40px;
+}
+
+.input {
+    height: 40px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.mr-50 {
+    margin-right: 50px;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.center {
+    align-items: center;
+    justify-content: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+}
+
+
+.space-around {
+    justify-content: space-around;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.button-classify-problem {
+    border: none;
+    background-color: rgb(247, 244, 244);
+    border-radius: 15px;
+}
+
+.button-classify-problem:hover {
+    color: #333;
+    background-color: rgb(232, 240, 238);
+}
+
+.gap-10 {
+    gap: 10px;
+}
+
+.gap-20 {
+    gap: 20px
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px 20px;
+}
+
+.inline {
+    display: inline;
+}
+
+.item-end {
+    justify-content: end;
+}
+
+.ml-5 {
+    margin-left: 5px;
+}
